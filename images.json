@@ -1,0 +1,20 @@
+[
+  {
+    "id": "img001",
+    "nombre": "Atardecer Anime",
+    "url": "https://raw.githubusercontent.com/usuario/repositorio/main/images/img001.jpg",
+    "precio": 100
+  },
+  {
+    "id": "img002",
+    "nombre": "Chica en la ciudad",
+    "url": "https://raw.githubusercontent.com/usuario/repositorio/main/images/img002.jpg",
+    "precio": 150
+  },
+  {
+    "id": "img003",
+    "nombre": "Paisaje de noche",
+    "url": "https://raw.githubusercontent.com/usuario/repositorio/main/images/img003.jpg",
+    "precio": 120
+  }
+]
