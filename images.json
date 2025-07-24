@@ -1,20 +1,20 @@
 [
   {
     "id": "img001",
-    "nombre": "Atardecer Anime",
-    "url": "https://raw.githubusercontent.com/usuario/repositorio/main/images/img001.jpg",
+    "nombre": "Level 1",
+    "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(1).png",
     "precio": 100
   },
   {
     "id": "img002",
-    "nombre": "Chica en la ciudad",
-    "url": "https://raw.githubusercontent.com/usuario/repositorio/main/images/img002.jpg",
+    "nombre": "Level 2",
+    "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(2).png",
     "precio": 150
   },
   {
     "id": "img003",
-    "nombre": "Paisaje de noche",
-    "url": "https://raw.githubusercontent.com/usuario/repositorio/main/images/img003.jpg",
+    "nombre": "Level 3",
+    "url": "https://raw.githubusercontent.com/RoniPeve/Puzzle-Wallapapers/main/Imagenes/imagen%20(3).png",
     "precio": 120
   }
 ]
